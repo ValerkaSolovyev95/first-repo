@@ -1,4 +1,8 @@
 # first-repo
+<html>
+<body>
+<htmt>
 <script>
-document.write(hello-word)
+document.write(Hello-word)
 </script>
+
